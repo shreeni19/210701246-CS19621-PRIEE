@@ -1,0 +1,17 @@
+<resources>
+    <color name="blue1">#3F51B5</color> <!-- Indigo -->
+    <color name="blue2">#303F9F</color> <!-- Dark Indigo -->
+    <color name="pink">#FF4081</color> <!-- Pink -->
+    <color name="grey">#212121</color> <!-- Dark Grey -->
+    <color name="black">#99000000</color> <!-- Semi-Transparent Black -->
+    <color name="green">#4CAF50</color> <!-- Green -->
+    <color name="white1">#FFFFFF</color> <!-- White -->
+    <color name="white2">#E0E0E0</color> <!-- Light Grey -->
+    <color name="blue">#2196F3</color> <!-- Blue -->
+    <color name="turquoise">#40E0D0</color> <!-- Blue -->
+    <color name="darkerTurquoise">#2ABECB</color>
+    <color name="lightGrey">#A9A9A9</color>
+    <color name="mediumGrey">#808080</color>
+    <color name="greenishTurquoise">#00CED1</color>
+
+</resources>

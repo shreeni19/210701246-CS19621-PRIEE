@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar.Bridge">
+
+        <item name="colorPrimary">@color/white2</item> <!-- Change the primary color to a shade of white -->
+        <item name="colorPrimaryDark">@color/lightGrey</item> <!-- Change the primary dark color to a shade of white -->
+        <item name="colorAccent">@color/white1</item> <!-- Change the accent color to a shade of white -->
+    </style>
+
+
+
+    <style name="AppThemeNoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/white2</item> <!-- Change the primary color to a shade of white -->
+        <item name="colorPrimaryDark">@color/lightGrey</item> <!-- Change the primary dark color to a shade of white -->
+        <item name="colorAccent">@color/white1</item> <!-- Change the accent color to a shade of white -->
+    </style>
+</resources>

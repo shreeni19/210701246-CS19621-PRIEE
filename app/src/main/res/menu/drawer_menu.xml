@@ -1,0 +1,16 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Follow Us"
+        android:id="@+id/btnFollowUs"
+       /> <!-- Set font size to 16sp -->
+
+    <item android:title="Profile"
+        android:id="@+id/btnProfile"
+        /> <!-- Set font size to 16sp -->
+
+    <item android:title="Rate Us"
+        android:id="@+id/btnRateUs"
+        /> <!-- Set font size to 16sp -->
+
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/white2" />
+    <corners android:radius="4dp" />
+    <!-- Remove the <size> element, as it's not necessary for a shape drawable -->
+    <padding
+        android:bottom="8dp"
+        android:left="16dp"
+        android:right="8dp"
+        android:top="8dp" />
+    <stroke android:color="@color/white2" android:width="2dp" />
+</shape>
